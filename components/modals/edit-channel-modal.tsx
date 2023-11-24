@@ -1,5 +1,5 @@
 "use client"
-import { ChannelType } from "@prisma/client";
+import {ChannelType}  from "@prisma/client";
 import qs from "query-string";
 
 import {
